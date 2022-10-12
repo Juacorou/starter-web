@@ -10,6 +10,7 @@ As stated above, the main purporse is to provide simple exmaple for Git training
 This is a simple web project, deploymenyt can be on any web server or even local file system.
 
 ##How To Contribute
+Please fork this repository and then issue Pull requests for review.
 
 ###Copyright
 
